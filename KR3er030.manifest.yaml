@@ -17,12 +17,12 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er030_000.yaml, hash: 'sha256:11efc6fa1401474e68eb324e7485ac85910a4056fb9daeea1c0a11361f22c1cd'}
+  - {seq: 0, filename: KR3er030_000.yaml, hash: 'sha256:5537e592a5a559a90ba30850171163ff64eeeab747b07a007e2ebd3dbebc1ea3'}
   - {seq: 1, filename: KR3er030_001.yaml, hash: 'sha256:20a14c5ff376f36ef765ad8054af5529154c06e9529402f5cc30bb06dffba86a'}
   - {seq: 3, filename: KR3er030_003.yaml, hash: 'sha256:7f99d49f1066e5eac07019ab037b8dc7197f887d48e7d5e199368658ed7478e6'}
-  - {seq: 0, filename: KR3er030_000.yaml, hash: 'sha256:11efc6fa1401474e68eb324e7485ac85910a4056fb9daeea1c0a11361f22c1cd'}
+  - {seq: 0, filename: KR3er030_000.yaml, hash: 'sha256:5537e592a5a559a90ba30850171163ff64eeeab747b07a007e2ebd3dbebc1ea3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er030_000.markers.yaml, hash: 'sha256:62996114c7e8308195a54405ecbd993e8c259f2eefbe3648628d6c76c7f957bb'}
+  - {seq: 0, role: markers, filename: assets/KR3er030_000.markers.yaml, hash: 'sha256:5f53b52ac732f6e2cce5ca4c4d58fc023c352ff36e121ee9197cd9f186fe65f1'}
   - {seq: 1, role: markers, filename: assets/KR3er030_001.markers.yaml, hash: 'sha256:9cc92ae36c6cfa3c1f15c447d339655da6fab80f61676a70460a164319cf47da'}
   - {seq: 3, role: markers, filename: assets/KR3er030_003.markers.yaml, hash: 'sha256:9275088c98056a9066e358101a3477c8355a02f8f1bff2369a9364e114b9ca41'}
 table_of_contents:
@@ -30,7 +30,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er030_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 208
   label: 序
@@ -1780,13 +1780,13 @@ table_of_contents:
     seq: 0
     marker_id: KR3er030_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 0
     - 307
   label: 後序
   type: section
   level: 1
-hash: sha256:be9fa61e3c489bd6dadf088a148f2d4575b12854e755feeb6a86032d97f385b9
+hash: sha256:554c2568b1f0beb7dec3780cfacfeb3dc8f936730edc4b0869457d09264b18e8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
